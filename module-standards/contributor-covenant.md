@@ -9,7 +9,7 @@ including [free speech][].
 
 Modules associated directly with the Stratic
 project should have the contact email set to "alex@strugee.net";
-otherwise, the author should use their best judgement.
+otherwise, the author should use their best judgment.
 
  [Contributor Covenant]: http://contributor-covenant.org/
  [free speech]: https://twitter.com/seldo/status/887789015167934464
